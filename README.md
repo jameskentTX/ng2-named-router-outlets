@@ -1,3 +1,8 @@
+Application compiles now. Use yarn to install packages.
+
+
+
+
 ![image](https://cloud.githubusercontent.com/assets/1544557/19240137/f65169f6-8ebd-11e6-8b86-fa189a65b744.png)
 # Named Router Outlets in Angular 2
 
