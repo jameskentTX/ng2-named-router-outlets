@@ -1,5 +1,5 @@
 Application compiles now. And is using Angular 4.3.6. Use yarn to install packages.
-I deleted tests in bio and speaker-list components. Made a few other changes.
+I deleted tests in bio and speaker-list components. Made changes in angular-cli.json and package.json.
 
 
 
